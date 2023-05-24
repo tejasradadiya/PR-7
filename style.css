@@ -1,0 +1,31 @@
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.body{
+    background-image: url('../logo.jpg');
+    background-size: cover;
+    background-blend-mode: darken black;
+}
+.filled{
+    margin-top: 20%;
+    margin-right: 15%;
+}
+.tb{
+    width: 200%;
+    height: 200%;
+}
+.ft{
+    font-size: 25px;
+    text-align: center;
+}
+.btnm{
+    align-items: end;
+    justify-content: space-between;
+    padding-left: 181%;
+    padding: 10px;
+}
